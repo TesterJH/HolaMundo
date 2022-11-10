@@ -1,0 +1,82 @@
+Primeros cambios y pruebas de la sintaxis MarkDown
+
+Número de almohadilla = Nivel de encabezado (similar a HTML, tiene hasta 6 niveles) 
+
+ 
+
+# Encabezado1 
+
+## Encabezado2 
+
+### Encabezado3 
+
+#### Encabezado4 
+
+##### Encabezado5 
+
+###### Encabezado6 
+
+ 
+
+Añadir citas al texto: Símbolo mayor que (>) antes de la cita 
+
+> esto es una cita 
+
+ 
+
+Añadir saltos de línea: Se añade el símbolo > en cada una: 
+
+> esto es una cita 
+
+> esto es la continuación de la cita 
+
+ 
+
+Listas desordenadas (viñeta simple): Comienzan con un guion (-) 
+
+(guion + espacio) 
+
+-elemento1 
+
+-elemento2 
+
+-elemento3 
+
+ 
+
+// Algunas aplicaciones aceptan también "*" o "+" para el mismo fin 
+
+ 
+
+Lista numerada: Comenzando por el número, seguido de un punto y un espacio "1. elemento" 
+
+1.Elemento1 
+
+2.Elemento2 
+
+3.Elemento3 
+
+ 
+
+Combinar o anidar listas: 
+
+Se añaden los elementos anidados mediante un tabulador antes del tipo de listado 
+
+-Elemento1 
+
+1.ElementoAnidado 
+
+Intersecciones entre textos (separación con una barra): 3 guiones bajos 
+
+// El equivalente de markdown a la etiqueta <hr> 
+
+Negritas y cursivas: 
+
+Negrita = Rodear el texto con dos asterisco al inicio y otro al final 
+**Texto en negrita** 
+
+Cursiva = Rodear el texto con un solo asterisco al inicio y fin 
+*Texto en cursiva* 
+
+Ambas: Tres asteriscos 
+***Texto en negrita y cursiva*** 
